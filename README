@@ -1,0 +1,40 @@
+# Flag Collector 🇺🇳🚀
+
+Need flags from around the world?  
+Want to politely ask embassies to send you a tiny piece of their country?  
+
+**This script has you covered!**
+
+---
+
+## What it does:  
+- Reads a list of countries and embassy emails  
+- Sends a polite, charming email requesting a small flag  
+- Handles multiple emails per country like a pro  
+- Saves you from writing the same message a million times  
+
+---
+
+## How to use it:  
+1. Put embassy emails in `embassies.csv` (one row per country, emails comma-separated)  
+2. Add your mailing address in the script  
+3. Run it and watch the flags roll in! (Well, the emails at least)  
+
+---
+
+## WARNING ⚠️  
+This script does NOT actually *send* flags for you. You’ll still have to wait for the postman.  
+
+---
+
+## Bonus tip:  
+If you want a flag, just ask nicely. Works almost every time.  
+
+---
+
+Happy flag hunting! 🇺🇸🇯🇵🇫🇷🇿🇦  
+— Saam
+
+---
+
+*P.S. If you get 50 flags before me, I will be jealous.*
